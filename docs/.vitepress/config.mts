@@ -12,7 +12,7 @@ export default defineConfig({
     logo: '/icon.png',
     nav: [
       { text: '首页', link: '/' },
-      { text: '指南', link: '/guides' }
+      { text: '指南', link: '/guides' },
       { text: '开发日记', link: '/devlogs' }
     ],
     editLink: {
@@ -31,7 +31,7 @@ export default defineConfig({
       },
       {
         text: '开发日记',
-        link: '/devlogs'
+        link: '/devlogs',
         items: [
           { text: '01', link: '/devlogs/01' },
         ]
