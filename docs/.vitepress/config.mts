@@ -13,7 +13,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '指南', link: '/guides' },
-      { text: '开发日记', link: '/devlogs' }
+      { text: '开发日记', link: '/devlogs/01' }
     ],
     editLink: {
       pattern: 'https://github.com/roitium/bbplayer-docs/edit/main/docs/:path'
@@ -31,7 +31,6 @@ export default defineConfig({
       },
       {
         text: '开发日记',
-        link: '/devlogs',
         items: [
           { text: '01', link: '/devlogs/01' },
         ]
