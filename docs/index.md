@@ -1,4 +1,6 @@
 ---
+layout: home
+
 hero:
   name: "BBPlayer"
   text: "又一个 BiliBili 音乐播放器"
