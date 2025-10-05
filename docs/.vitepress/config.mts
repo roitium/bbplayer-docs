@@ -14,6 +14,9 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '指南', link: '/guides' }
     ],
+    editLink: {
+      pattern: 'https://github.com/roitium/bbplayer-docs/edit/main/docs/:path'
+    },
 
     sidebar: [
       {

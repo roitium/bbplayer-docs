@@ -13,7 +13,7 @@ BBPlayer 的每次更新都会发布在：[GitHub Release](https://github.com/ro
 
 ## 网盘（蓝奏云）
 
-点击[这里]()，即可获取 BBPlayer 的 APK 文件。但注意，网盘上的版本可能更新不及时，安装后如果提示有新版本建议及时更新（后续更新需要保证您的网络环境能访问 GitHub）
+点击[这里](https://yanyao.lanzoum.com/iwNmp37raaad)，即可获取 BBPlayer 的 APK 文件。但注意，网盘上的版本可能更新不及时，安装后如果提示有新版本建议及时更新（后续更新需要保证您的网络环境能访问 GitHub）
 
 ## 热更新
 
