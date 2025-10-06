@@ -18,6 +18,7 @@ export default defineConfig({
     editLink: {
       pattern: 'https://github.com/roitium/bbplayer-docs/edit/main/docs/:path'
     },
+    outline: [2, 5],
 
     sidebar: [
       {
@@ -27,6 +28,8 @@ export default defineConfig({
           { text: '安装', link: '/guides/install' },
           { text: '搜索', link: '/guides/search' },
           { text: '歌单', link: '/guides/playlist' },
+          { text: '歌词', link: '/guides/lyrics' },
+          { text: '下载', link: '/guides/download' },
         ]
       },
       {
